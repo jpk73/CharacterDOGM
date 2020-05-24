@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For CharacterDOGM
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CharacterDOGM KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin		KEYWORD2
+clear		KEYWORD2
+home		KEYWORD2
+setCursor	KEYWORD2
+noDisplay	KEYWORD2
+display		KEYWORD2
+createChar	KEYWORD2
+setContrast	KEYWORD2
+setLocal	KEYWORD2
+setView		KEYWORD2
+command		KEYWORD2
+write		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
