@@ -5,7 +5,7 @@
 
 DOGM204 pin connections:
 
-the top row of pins has 3 pins left and 3 pins right, these are pins 1-3 and 20-22:
+the bottom row of pins has 3 pins left and 3 pins right, these are pins 1-3 and 20-22:
 
 01 +LED R47 -> 5V or R18 -> 3V3 (these R values fit are for amber LED panel, for other LED colors see data sheet)
 02 +LED R47 -> 5V or R18 -> 3V3
@@ -15,7 +15,7 @@ the top row of pins has 3 pins left and 3 pins right, these are pins 1-3 and 20-
 21 -LED -> GND
 22 -LED -> GND
 
-the bottom row of pins has 22 pins, these are pins 23-44, numbered from left to right:
+the top row of pins has 22 pins, these are pins 23-44, numbered from right to left:
 
 23 1uF -> GND
 24 1uF -> GND
