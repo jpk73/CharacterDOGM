@@ -7,9 +7,9 @@ DOGM204 pin connections:
 
 the bottom row of pins has 3 pins left and 3 pins right, these are pins 1-3 and 20-22:
 
-01 +LED R47 -> 5V or R18 -> 3V3 (these R values fit are for amber LED panel, for other LED colors see data sheet)
-02 +LED R47 -> 5V or R18 -> 3V3
-03 +LED R47 -> 5V or R18 -> 3V3
+01 +LED (for limiting resistors  see data sheet)
+02 +LED
+03 +LED
 
 20 -LED -> GND (solder all 6 top row pins also from above to the LED panel!)
 21 -LED -> GND
