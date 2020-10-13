@@ -103,6 +103,7 @@ inline void CharacterDOGM::command(uint8_t value) {
 
 inline size_t CharacterDOGM::write(uint8_t value) {
   send(value, HIGH);
+  return 1;
 }
 
 void CharacterDOGM::send(uint8_t value, uint8_t mode) {
