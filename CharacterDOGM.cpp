@@ -97,7 +97,8 @@ void CharacterDOGM::setView(unsigned char view) { // sets display orientation to
   command(0x28);
 }
 
-inline void CharacterDOGM::command(uint8_t value) {
+// inline
+void CharacterDOGM::command(uint8_t value) {
   send(value, LOW);
 }
 
